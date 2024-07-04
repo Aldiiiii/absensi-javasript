@@ -1,11 +1,11 @@
-# Absensi - JavaSript
+# Absensi - JavaScript
 
 ## Server
 - NodeJS
 - Express
 - PostgreSQL
 - Sequelize & Sequelize-cli
-- BcryptJs
+- BcryptJS
 - JsonWebToken
 - Authentication
 - Authorization
