@@ -26,3 +26,7 @@
 1. Absen masuk dan keluar dengan kamera/webcam
 2. Dapat titik koordinat saat absen masuk dan keluar
 3. Rekap absen dan kegiatan dalam bentuk pdf
+
+## Referensi
+### Sequelize-cli
+- https://sequelize.org/docs/v7/cli/
